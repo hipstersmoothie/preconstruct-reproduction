@@ -1,0 +1,22 @@
+{
+  "name": "esm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "analyze": "webpack --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@reach/auto-id": "^0.13.2",
+    "react": "^17.0.1",
+    "warning": "^4.0.3",
+    "webpack": "4",
+    "webpack-bundle-analyzer": "^4.4.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "3"
+  }
+}
